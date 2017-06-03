@@ -1,0 +1,29 @@
+.nav-button {
+    display: inline-block;
+    background-image: url(assets/buttonBG.png);
+    width: 159px;
+    height: 54px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 24px;
+    line-height: 2;
+    cursor: pointer;
+}
+
+.content-panel {
+    background-image: url(assets/panelbg.png);
+    width: 990px;
+    height: 687px;
+    margin-top: -25px;
+}
+
+.panel-header {
+    margin-left: 22px;
+    padding-top: 10px;
+}
+
+.active {
+    font-weight: bold;
+    color: #214803;
+}
